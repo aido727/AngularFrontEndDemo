@@ -1,0 +1,22 @@
+.content {
+	max-width: 1240px;
+	margin: 0 auto;
+	padding-bottom: 81px;
+}
+
+.advert {
+	background-color: #F5F5F5;
+	height: 402px;
+	width: 100%;
+}
+
+.footer {
+	background-color: black;
+	height: 87px;
+}
+
+@media only screen and (max-width: 1239px) {
+	.advert {
+		height: max-content;
+	}
+}

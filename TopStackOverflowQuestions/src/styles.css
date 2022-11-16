@@ -1,0 +1,18 @@
+:root {
+	--default-orange: #E4853D;
+	--default-grey: #DDDDDD;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+}
+
+* {
+	font-family: 'Roboto';
+	font-style: normal;
+	letter-spacing: -0.5px;
+}
